@@ -1,2 +1,0 @@
-# NevExpo
-NevExpo Company 
